@@ -9,6 +9,7 @@ import 'package:match_job/shared/cubits/location_injections.dart';
 
 import 'features/chat/chat_injections.dart';
 import 'features/my_jobs/my_jobs_injections.dart';
+import 'features/profile/profile_injections.dart';
 import 'features/services/services_injections.dart';
 
 GetIt getIt = GetIt.instance;
@@ -24,4 +25,5 @@ Future<void> appInjections() async {
   myJobsInjections();
   servicesInjections();
   chatInjections();
+  profileInjection();
 }

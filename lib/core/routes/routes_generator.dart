@@ -11,6 +11,7 @@ import 'package:match_job/features/home_tap/pages/home_tap_screen.dart';
 import 'package:match_job/features/job_applying/screens/job_applying_screen.dart';
 import 'package:match_job/features/my_jobs/screens/my_jobs_screen.dart';
 import 'package:match_job/features/onboarding/pages/on_boarding_screen.dart';
+import 'package:match_job/features/profile/screens/edit_profile.dart';
 import 'package:match_job/features/splash/screen/splash_screen.dart';
 import 'package:match_job/features/auth/pages/welcome_screen.dart';
 
@@ -54,6 +55,8 @@ class RoutesGenerator {
         return _buildRoute(const BrowseScreen(), isIos);
       case Routes.myJobsScreen:
         return _buildRoute(MyJobsScreen(), isIos);
+      case Routes.editProfile:
+        return _buildRoute(EditProfile(), isIos);
       case Routes.jobApplyingScreen:
         if (arg is CompanyModel) {
           return _buildRoute(JobApplyingScreen(companyModel: arg), isIos);

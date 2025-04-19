@@ -849,6 +849,96 @@ class S {
       args: [],
     );
   }
+
+  /// `Are you looking for a job?`
+  String get are_you_looking_for_a_job {
+    return Intl.message(
+      'Are you looking for a job?',
+      name: 'are_you_looking_for_a_job',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Edit account`
+  String get edit_account {
+    return Intl.message(
+      'Edit account',
+      name: 'edit_account',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `My interviews`
+  String get my_interviews {
+    return Intl.message(
+      'My interviews',
+      name: 'my_interviews',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Contact us`
+  String get contact_us {
+    return Intl.message(
+      'Contact us',
+      name: 'contact_us',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Terms of Use`
+  String get termsOfUse {
+    return Intl.message(
+      'Terms of Use',
+      name: 'termsOfUse',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Send an invitation to a friend`
+  String get send_an_invitation_to_a_friend {
+    return Intl.message(
+      'Send an invitation to a friend',
+      name: 'send_an_invitation_to_a_friend',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `technical support`
+  String get technical_support {
+    return Intl.message(
+      'technical support',
+      name: 'technical_support',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Log out`
+  String get log_out {
+    return Intl.message(
+      'Log out',
+      name: 'log_out',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `delete account`
+  String get delete_account {
+    return Intl.message(
+      'delete account',
+      name: 'delete_account',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {

@@ -27,6 +27,7 @@ class ChatItem extends StatelessWidget {
       onTap: onTap,
       child: Container(
         padding: EdgeInsets.symmetric(horizontal: 8.w, vertical: 8.h),
+        decoration: BoxDecoration(),
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [

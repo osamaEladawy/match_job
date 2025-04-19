@@ -11,6 +11,7 @@ import 'package:match_job/shared/resources/icons_resources.dart';
 
 import '../../../app/my_app.dart';
 import '../../chat/screens/conversation_screen.dart';
+import '../../profile/screens/profile_screen.dart';
 import '../../services/screens/services_screen.dart';
 
 part 'home_tap_state.dart';
@@ -28,9 +29,9 @@ class HomeTapCubit extends Cubit<HomeTapState> {
   //int activeButtonIndex = 0;
 
   List<Widget> pages = [
-    HomeScreen(),
+    ProfileScreen(),
     ConversationScreen(),
-    BrowseScreen(),
+    BrowseScreen(),//* Home Screen
     MyJobsScreen(),
     ServicesScreen(),
   ];

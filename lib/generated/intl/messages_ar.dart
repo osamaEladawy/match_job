@@ -31,6 +31,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("مميزات اضافيه"),
         "and": MessageLookupByLibrary.simpleMessage("و"),
         "apply_now": MessageLookupByLibrary.simpleMessage("تقديم الان"),
+        "are_you_looking_for_a_job":
+            MessageLookupByLibrary.simpleMessage("هل تبحث عن عمل ؟"),
         "browse": MessageLookupByLibrary.simpleMessage("تصفح"),
         "byCreatingAnAccount": MessageLookupByLibrary.simpleMessage(
             "عند إنشاء حساب، فإنك توافق على"),
@@ -41,17 +43,20 @@ class MessageLookup extends MessageLookupByLibrary {
         "confirm": MessageLookupByLibrary.simpleMessage("تأكيد"),
         "confirmPassword":
             MessageLookupByLibrary.simpleMessage("تأكيد كلمة المرور"),
+        "contact_us": MessageLookupByLibrary.simpleMessage("تواصل معنا"),
         "conversations": MessageLookupByLibrary.simpleMessage("المحادثات"),
         "createAnewAccount":
             MessageLookupByLibrary.simpleMessage("انشاء حساب جديد"),
         "data_saved_successfully":
             MessageLookupByLibrary.simpleMessage("تم حفظ البيانات بنجاح"),
+        "delete_account": MessageLookupByLibrary.simpleMessage("حذف حساب"),
         "didnt_receive_the_code":
             MessageLookupByLibrary.simpleMessage("لم يصل اليك الكود؟"),
         "do_you_already_have_an_account":
             MessageLookupByLibrary.simpleMessage("هل لديك حساب بالفعل؟"),
         "dont_have_an_account":
             MessageLookupByLibrary.simpleMessage("ليس لديك حساب؟"),
+        "edit_account": MessageLookupByLibrary.simpleMessage("تعديل الحساب"),
         "education": MessageLookupByLibrary.simpleMessage("التعليم"),
         "employer": MessageLookupByLibrary.simpleMessage("صاحب عمل"),
         "everyone": MessageLookupByLibrary.simpleMessage("الكل"),
@@ -77,8 +82,10 @@ class MessageLookup extends MessageLookupByLibrary {
         "jobs_that_suit_you":
             MessageLookupByLibrary.simpleMessage("الوظائف التي تناسبك"),
         "log_in": MessageLookupByLibrary.simpleMessage("تسجيل الدخول"),
+        "log_out": MessageLookupByLibrary.simpleMessage("تسجيل خروج"),
         "login": MessageLookupByLibrary.simpleMessage("تسجيل الدخول"),
         "my_account": MessageLookupByLibrary.simpleMessage("حسابي"),
+        "my_interviews": MessageLookupByLibrary.simpleMessage("مقابلاتي"),
         "my_jobs": MessageLookupByLibrary.simpleMessage("وظائفي"),
         "my_requests": MessageLookupByLibrary.simpleMessage("طلباتي"),
         "name": MessageLookupByLibrary.simpleMessage("الاسم"),
@@ -97,10 +104,15 @@ class MessageLookup extends MessageLookupByLibrary {
         "qualification": MessageLookupByLibrary.simpleMessage("المؤهل"),
         "resend": MessageLookupByLibrary.simpleMessage("إعادة الأرسال"),
         "save_and_follow": MessageLookupByLibrary.simpleMessage("حفظ و متابعة"),
+        "send_an_invitation_to_a_friend":
+            MessageLookupByLibrary.simpleMessage("إرسال دعوه لصديق"),
         "services": MessageLookupByLibrary.simpleMessage("خدمات"),
         "signUp": MessageLookupByLibrary.simpleMessage("انشاء حساب"),
         "skills": MessageLookupByLibrary.simpleMessage("المهارات"),
         "skip": MessageLookupByLibrary.simpleMessage("تخطي"),
+        "technical_support":
+            MessageLookupByLibrary.simpleMessage("الدعم الفني"),
+        "termsOfUse": MessageLookupByLibrary.simpleMessage("سياسة استخدام"),
         "theBestAppToFindTheRightJob": MessageLookupByLibrary.simpleMessage(
             "افضل تطبيق لايجاد الوظيفة المناسبة"),
         "theInstitution": MessageLookupByLibrary.simpleMessage("المؤسسه"),

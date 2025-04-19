@@ -78,5 +78,14 @@
   "completed": "Completed",
   "in_progress": "In progress",
   "comment": "Comment",
-  "upload_a_file_or_image": "Upload a file or image"
+  "upload_a_file_or_image": "Upload a file or image",
+  "are_you_looking_for_a_job": "Are you looking for a job?",
+  "edit_account": "Edit account",
+  "my_interviews": "My interviews",
+  "contact_us": "Contact us",
+  "termsOfUse": "Terms of Use",
+  "send_an_invitation_to_a_friend": "Send an invitation to a friend",
+  "technical_support":"technical support",
+  "log_out": "Log out",
+  "delete_account": "delete account"
 }

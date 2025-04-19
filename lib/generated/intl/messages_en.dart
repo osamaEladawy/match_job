@@ -31,6 +31,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("Additional features"),
         "and": MessageLookupByLibrary.simpleMessage("and"),
         "apply_now": MessageLookupByLibrary.simpleMessage("Apply now"),
+        "are_you_looking_for_a_job":
+            MessageLookupByLibrary.simpleMessage("Are you looking for a job?"),
         "browse": MessageLookupByLibrary.simpleMessage("browse"),
         "byCreatingAnAccount": MessageLookupByLibrary.simpleMessage(
             "By creating an account, you agree to"),
@@ -41,17 +43,21 @@ class MessageLookup extends MessageLookupByLibrary {
         "confirm": MessageLookupByLibrary.simpleMessage("Confirm"),
         "confirmPassword":
             MessageLookupByLibrary.simpleMessage("Confirm password"),
+        "contact_us": MessageLookupByLibrary.simpleMessage("Contact us"),
         "conversations": MessageLookupByLibrary.simpleMessage("conversations"),
         "createAnewAccount":
             MessageLookupByLibrary.simpleMessage("Create a new account"),
         "data_saved_successfully":
             MessageLookupByLibrary.simpleMessage("Data saved successfully"),
+        "delete_account":
+            MessageLookupByLibrary.simpleMessage("delete account"),
         "didnt_receive_the_code":
             MessageLookupByLibrary.simpleMessage("Didn\'t receive the code?"),
         "do_you_already_have_an_account": MessageLookupByLibrary.simpleMessage(
             "Do you already have an account?"),
         "dont_have_an_account":
             MessageLookupByLibrary.simpleMessage("Don\'t have an account?"),
+        "edit_account": MessageLookupByLibrary.simpleMessage("Edit account"),
         "education": MessageLookupByLibrary.simpleMessage("education"),
         "employer": MessageLookupByLibrary.simpleMessage("Employer"),
         "everyone": MessageLookupByLibrary.simpleMessage("everyone"),
@@ -78,8 +84,10 @@ class MessageLookup extends MessageLookupByLibrary {
         "jobs_that_suit_you":
             MessageLookupByLibrary.simpleMessage("Jobs that suit you"),
         "log_in": MessageLookupByLibrary.simpleMessage("Log in"),
+        "log_out": MessageLookupByLibrary.simpleMessage("Log out"),
         "login": MessageLookupByLibrary.simpleMessage("Login"),
         "my_account": MessageLookupByLibrary.simpleMessage("my account"),
+        "my_interviews": MessageLookupByLibrary.simpleMessage("My interviews"),
         "my_jobs": MessageLookupByLibrary.simpleMessage("My jobs"),
         "my_requests": MessageLookupByLibrary.simpleMessage("My requests"),
         "name": MessageLookupByLibrary.simpleMessage("name"),
@@ -100,10 +108,15 @@ class MessageLookup extends MessageLookupByLibrary {
         "resend": MessageLookupByLibrary.simpleMessage("Resend"),
         "save_and_follow":
             MessageLookupByLibrary.simpleMessage("Save and follow"),
+        "send_an_invitation_to_a_friend": MessageLookupByLibrary.simpleMessage(
+            "Send an invitation to a friend"),
         "services": MessageLookupByLibrary.simpleMessage("services"),
         "signUp": MessageLookupByLibrary.simpleMessage("Sign Up"),
         "skills": MessageLookupByLibrary.simpleMessage("Skills"),
         "skip": MessageLookupByLibrary.simpleMessage("skip"),
+        "technical_support":
+            MessageLookupByLibrary.simpleMessage("technical support"),
+        "termsOfUse": MessageLookupByLibrary.simpleMessage("Terms of Use"),
         "theBestAppToFindTheRightJob": MessageLookupByLibrary.simpleMessage(
             "The best app to find the right job"),
         "theInstitution":

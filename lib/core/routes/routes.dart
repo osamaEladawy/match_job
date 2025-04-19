@@ -14,4 +14,5 @@ class Routes {
   static const myJobsScreen = "myJobsScreen";
   static const verifyYourCertificateScreen = "verifyYourCertificateScreen";
   static const chatScreen = "ChatScreen";
+  static const editProfile = "editProfile";
 }

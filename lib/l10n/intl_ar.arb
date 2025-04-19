@@ -78,5 +78,14 @@
   "completed": "اكتملت",
   "in_progress": "قيد التنفيذ",
   "comment": "تعقيب",
-  "upload_a_file_or_image": "تحميل ملف او صورة"
+  "upload_a_file_or_image": "تحميل ملف او صورة",
+  "are_you_looking_for_a_job": "هل تبحث عن عمل ؟",
+  "edit_account": "تعديل الحساب",
+  "my_interviews": "مقابلاتي",
+  "contact_us": "تواصل معنا",
+  "termsOfUse": "سياسة استخدام",
+  "send_an_invitation_to_a_friend": "إرسال دعوه لصديق",
+  "technical_support": "الدعم الفني",
+  "log_out": "تسجيل خروج",
+  "delete_account": "حذف حساب"
 }
