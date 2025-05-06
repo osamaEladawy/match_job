@@ -16,7 +16,7 @@ Future<void> main() async {
   await SecureStorageService.instance.init();
   await appInjections();
   Bloc.observer = MyBlocObserver();
-  MyLogger.instance.initLogger();
+  //MyLogger.instance.initLogger();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   runApp(MyApp());
 }
